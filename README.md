@@ -1,1 +1,1 @@
-# Responsive-Food-page Building a responsive website in all mobile devices with Hamburger button 
+This website shows how to make Hamburger button and how to make a responsive website to all mobile devices
